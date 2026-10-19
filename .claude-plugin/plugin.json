@@ -1,7 +1,7 @@
 {
   "name": "nuticast",
   "displayName": "Nuticast",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get an iPhone on another network ready for Xcode from a conversation: list saved devices, start or stop a Nuticast bridge over your Tailscale, ZeroTier or Netbird network, and hand Xcode the device id to build and debug on.",
   "author": { "name": "Nuticast", "url": "https://www.nuticast.com" },
   "homepage": "https://www.nuticast.com",
