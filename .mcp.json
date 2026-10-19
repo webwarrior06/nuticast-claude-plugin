@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nuticast": {
+      "command": "/Applications/Nuticast.app/Contents/Helpers/nuticast",
+      "args": ["mcp"]
+    }
+  }
+}
